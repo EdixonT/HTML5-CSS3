@@ -1,0 +1,90 @@
+body{
+    background: rgb(160, 240, 200);
+    max-width: 900px;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+    border: 3px solid silver;
+    border-radius: 20px;
+
+    
+
+}
+.banner{
+    width: 900px;
+    height: 300px;
+    border-radius: 20px;
+}
+
+#equipos {
+    border: 3px solid silver;
+    border-radius: 20px;
+    background: rgb(95, 216, 238);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.equipo{
+    width: 850px;
+    height: 150px;
+    border-radius: 20px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+
+#estadios {
+    border: 3px solid silver;
+    border-radius: 20px;
+    background: rgb(95, 216, 238);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.estadio{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 10px;
+
+}
+
+#historia {
+    border: 3px solid silver;
+    border-radius: 20px;
+    background: rgb(95, 216, 238);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.historia{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 10px;
+
+}
+
+#campeones {
+    border: 3px solid silver;
+    border-radius: 20px;
+    background: rgb(95, 216, 238);
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.campeon{
+    width: 400px;
+    height: 250px;
+    border-radius: 20px;
+    margin-left: 200px;
+    margin-top: 10px;
+
+}
